@@ -135,4 +135,4 @@ char *filename_generator(const char *text, int state) {
 // These are the build instructions:
 // Dependencies: readline
 // To install dependencies on Ubuntu: sudo apt-get install libreadline-dev
-// To compile: gcc -o edit_file edit_file.c -lreadline
+// To compile: gcc -o qe quic-edit.c -lreadline
